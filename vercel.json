@@ -2,11 +2,5 @@
   "buildCommand": "pnpm run build",
   "devCommand": "pnpm dev",
   "installCommand": "pnpm install",
-  "framework": "nextjs",
-  "env": {
-    "NEXT_PUBLIC_SITE_URL": {
-      "description": "Site URL",
-      "required": false
-    }
-  }
+  "framework": "nextjs"
 }
